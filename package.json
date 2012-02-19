@@ -8,9 +8,9 @@
   "author": "TJ Holowaychuk <tj@learnboost.com> (http://tjholowaychuk.com)",
   "main": "index",
   "dependencies": {
-      "log": ">= 1.2.0"
-    , "mkdirp": ">= 0.0.1"
+      "log": "https://github.com/XULRunner42/log.js/tarball/master"
+    , "mkdirp": "https://github.com/XULRunner42/node-mkdirp/tarball/master"
   },
-  "devDependencies": { "should": "0.2.x" },
+  "devDependencies": { "should": "https://github.com/XULRunner42/node-should/tarball/master" },
   "engines": { "node": "*" }
 }
